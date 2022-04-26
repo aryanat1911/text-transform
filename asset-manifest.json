@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-transform/static/css/main.cea0d441.css",
+    "main.js": "/text-transform/static/js/main.dfbe83fd.js",
+    "index.html": "/text-transform/index.html",
+    "main.cea0d441.css.map": "/text-transform/static/css/main.cea0d441.css.map",
+    "main.dfbe83fd.js.map": "/text-transform/static/js/main.dfbe83fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea0d441.css",
+    "static/js/main.dfbe83fd.js"
+  ]
+}
